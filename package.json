@@ -1,0 +1,17 @@
+{
+    "name": "globaltimer",
+    "version": "1.0.0",
+    "main": "lib/index.js",
+    "typings": "index.d.ts",
+    "license": "MIT",
+    "author": "chenweibin <weibin.chen@raykite.com>",
+    "description": "全局计时器",
+    "keywords": ["timer", "webworker","global"],
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/weeeeibin/globaltimer.git"
+    }
+}
